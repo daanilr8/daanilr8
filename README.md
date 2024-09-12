@@ -27,7 +27,7 @@ Soy Daniel, Ingeniero informático dedicado en la rama de Computación, apasiona
 - 🔭 Actualmente buscando trabajando en Barcelona
 
 ## Conéctate conmigo
-- [LinkedIn](www.linkedin.com/in/daniel-lechuga-ruiz-5344112b3)
+- LinkedIn: [Daniel Lechuga Ruiz](www.linkedin.com/in/daniel-lechuga-ruiz-5344112b3)
 
 
 
